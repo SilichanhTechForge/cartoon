@@ -13,4 +13,3 @@ The calculator.fsproj file is the project file, containing information about the
 
 The Client.fs file is one of the source code files written in F#. The Properties directory contains project properties, such as assembly information. The Startup.fs file usually contains the startup configuration for the application, including middleware and routing configurations. The style.css file is a stylesheet used to define the look and feel of the application's UI. The wsconfig.json file might contain configuration settings related to web services. Finally, the wwwroot directory is typically used to serve static files such as HTML, CSS, JavaScript, and images.
 
-deploy through:https://cartooncal.azurewebsites.net/
